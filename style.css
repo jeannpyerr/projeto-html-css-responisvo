@@ -224,4 +224,7 @@ footer {
     footer {
         text-align: center;
     }
+    #contatos {
+    scroll-margin-top: 120px;
+}
 }
